@@ -1,0 +1,6 @@
+a=[[20,30],[40,50]]
+b=[[30,40,],[70,80]]
+
+for i in range(len(a)):
+    for j in range(len(a[0])):
+       print(a[i][j]/b[i][j])
