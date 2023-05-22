@@ -1,0 +1,7 @@
+def search(l,ele):
+    for i in range(len(l)):
+        if(l[i]==ele):
+            print(i)
+l=eval(input("Enter the list elements="))
+ele=int(input("Enter the search element="))
+search(l,ele)
