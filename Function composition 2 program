@@ -1,0 +1,8 @@
+def circle(r):
+    b=3.14*r*r   
+    return b 
+def triangle(b):
+    h=10
+    area=0.5*(b*h)
+    return area
+print(triangle(10))
