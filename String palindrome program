@@ -1,0 +1,5 @@
+str1=input("Enter the string=")
+if(str1==str1[::-1]):
+    print("It is string palindrome")
+else:
+    print("It in not a string palindrome")
