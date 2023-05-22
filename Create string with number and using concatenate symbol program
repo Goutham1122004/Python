@@ -1,0 +1,9 @@
+str1=''
+a=int(input("A="))
+for i in range(a):
+    n=input("Enter the number=")
+    str1=str1+n 
+    if(i==a-1):
+        break
+    str1=str1+'+'
+print(str1)
