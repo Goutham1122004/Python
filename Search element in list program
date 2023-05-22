@@ -1,0 +1,6 @@
+l=[12,34,56,78,90]
+a=34
+if(a in l):
+    print("yes")
+    print(a)
+
