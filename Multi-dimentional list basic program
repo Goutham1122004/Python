@@ -1,0 +1,4 @@
+List = [['Mtech', 'virtusa'], ['company']]
+print(" Multi-Dimensional list")
+print(List[0][1])
+print(List[1][0])
