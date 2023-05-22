@@ -1,0 +1,7 @@
+str1=input("Enter the string=")
+vow=['a','e','i','o','u']
+result=""
+for i in range(len(str1)):
+    if(str1[i] not in vow):
+        result=result+str1[i]
+print(result)
