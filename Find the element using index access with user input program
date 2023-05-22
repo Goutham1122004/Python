@@ -1,0 +1,5 @@
+l=eval(input("Enter the value=")))
+index=int(input("Enter the index values="))
+for i in range(len(l)):
+    if(i==index):
+        print(l[i])
