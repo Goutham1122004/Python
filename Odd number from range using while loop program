@@ -1,0 +1,7 @@
+a=int(input("A="))
+b=int(input("B="))
+i=a 
+while(i<b):
+    if(i%2!=0):
+        print("Odd numbers..",i)
+    i=i+1
