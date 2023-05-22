@@ -1,0 +1,7 @@
+n=5
+a,b=1,2
+print(a)
+print(b)
+for i in range(0,n-2):
+   print(b)
+   a,b=b,a+b
