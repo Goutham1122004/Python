@@ -1,0 +1,4 @@
+List = [1, 2, 'Mtech', 4, 'virtusa', 6, 'company']
+print("Using negative indexing")
+print(List[-1])
+print(List[-3])
