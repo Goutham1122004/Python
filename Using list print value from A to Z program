@@ -1,0 +1,7 @@
+l=[]
+a=65
+for i in range(1,28):
+    print(chr(a))
+    l.append(a)
+    a=a+1
+   
