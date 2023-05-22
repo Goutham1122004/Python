@@ -1,0 +1,2 @@
+x=lambda a,b:a if(a>b) else b 
+print("Greater Number is..",x(5,3))
