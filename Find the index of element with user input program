@@ -1,0 +1,5 @@
+l=eval(input("Enter the elements="))
+element=int(input("Enter the element="))
+for i in range(len(l)):
+    if(l[i]==element):
+        print(i)
