@@ -1,0 +1,2 @@
+a=lambda x,y,z:(((x*x)+(y*y)+(z*z))/3)
+print(a(3,3,3))
