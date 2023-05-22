@@ -1,0 +1,7 @@
+l=eval(input("Enter the list elements="))
+count=0
+for i in l:
+    if(i>=50):
+        print("Greater than 50=",i)
+        count=count+1
+print("Total elements greater than 50=",count)        
