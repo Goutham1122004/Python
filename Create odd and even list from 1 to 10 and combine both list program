@@ -1,0 +1,14 @@
+l1=[]
+l2=[]
+for i in range(0,11):
+    if(i%2==0):
+        print("Even numbers=",i)
+        l1.append(i)
+    else:
+        print("Odd numbers=",i)
+        l2.append(i)
+        
+print(l1)
+print(l2)
+l3=l1+l2
+print(l3)
