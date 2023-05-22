@@ -1,0 +1,3 @@
+number=int(input("Enter the number="))
+square=number**(1/2)
+print(square)
