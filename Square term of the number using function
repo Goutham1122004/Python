@@ -1,0 +1,5 @@
+def square(n):
+    sq=n*n  
+    print("Square term=",sq)
+n=int(input("N="))
+square(n)
